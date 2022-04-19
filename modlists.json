@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Tahrovin",
+    "description": "A NSFW Skyrim VR experience that only lightly touches on the core of Skyrim, making it an enjoyable game experience with plenty of eye candy to suit.",
+    "author": "iAmMe",
+    "maintainers": [
+      "github/iAmMe27"
+    ],
+    "game": "skyrimvr",
+    "tags": [
+      "NSFW",
+      "LotD",
+      "VR",
+      "Mysticism",
+      "Triumvirate",
+      "PLANCK"
+    ],
+    "nsfw": true,
+    "image_contains_title": true,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/TahrovinBanner.png",
+      "readme": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_07d38d43-2282-40fe-a6cb-dd402b1c52b3",
+      "machineURL": "tahrovin",
+      "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "jyRW3lEL+Z0=",
+      "Size": 607251389,
+      "NumberOfArchives": 468,
+      "SizeOfArchives": 64717335494,
+      "NumberOfInstalledFiles": 112144,
+      "SizeOfInstalledFiles": 128206730299
+    },
+    "version": "0.4.4.1",
+  }
+]
