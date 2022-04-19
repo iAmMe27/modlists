@@ -8,6 +8,7 @@
       "github/iAmMe27"
     ],
     "game": "skyrimvr",
+    "official": false,
     "tags": [
       "NSFW",
       "LotD",
@@ -17,25 +18,27 @@
       "PLANCK"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/TahrovinBanner.png",
       "readme": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_07d38d43-2282-40fe-a6cb-dd402b1c52b3",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_213ef9d5-56f7-46ec-93b4-5985def0ece5",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "jyRW3lEL+Z0=",
-      "Size": 607251389,
+      "Hash": "XhUV3+V/B9U=",
+      "Size": 607251756,
       "NumberOfArchives": 468,
       "SizeOfArchives": 64717335494,
-      "NumberOfInstalledFiles": 112144,
-      "SizeOfInstalledFiles": 128206730299
+      "NumberOfInstalledFiles": 112146,
+      "SizeOfInstalledFiles": 128206730476
     },
-    "version": "0.4.4.1"
+    "version": "0.4.1.1",
+    "RepositoryName": ""
   }
 ]
