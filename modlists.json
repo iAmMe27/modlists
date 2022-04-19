@@ -5,7 +5,8 @@
     "description": "A NSFW Skyrim VR experience that only lightly touches on the core of Skyrim, making it an enjoyable game experience with plenty of eye candy to suit.",
     "author": "iAmMe",
     "maintainers": [
-      "github/iAmMe27"
+      "github/iAmMe27",
+      "iAmMe27"
     ],
     "game": "skyrimvr",
     "tags": [
