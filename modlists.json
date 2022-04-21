@@ -23,7 +23,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/TahrovinBanner.png",
+      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/TahrovinBanner.webp",
       "readme": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/README.md",
       "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_cf17b387-d7a7-4b50-8509-5f31d98bcae4",
       "machineURL": "tahrovin",
