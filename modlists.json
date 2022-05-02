@@ -19,11 +19,11 @@
     ],
     "nsfw": true,
     "utility_list": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/TahrovinBanner.webp",
+      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/WJBanner.webp",
       "readme": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/README.md",
       "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_0ba53ea2-db46-40e0-a35f-f55b55183139",
       "machineURL": "tahrovin",
