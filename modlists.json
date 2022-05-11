@@ -26,20 +26,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/WJBanner.webp",
       "readme": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_6c9ba046-32b0-4665-ad18-03b68b84a23a",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_aa72df6c-873e-4389-8cff-832d729a8ede",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "gAzw2ZY0NFo=",
-      "Size": 661324709,
-      "NumberOfArchives": 491,
-      "SizeOfArchives": 70697130900,
-      "NumberOfInstalledFiles": 110435,
-      "SizeOfInstalledFiles": 138528085604
+      "Hash": "xMWS5g3Xl48=",
+      "Size": 657531028,
+      "NumberOfArchives": 493,
+      "SizeOfArchives": 70704794572,
+      "NumberOfInstalledFiles": 110536,
+      "SizeOfInstalledFiles": 138583726842
     },
-    "version": "0.6.1",
+    "version": "0.6.2",
     "RepositoryName": ""
   }
 ]
