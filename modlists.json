@@ -41,44 +41,5 @@
     },
     "version": "0.8",
     "RepositoryName": ""
-  },
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "SMEFT but Sexy",
-    "description": "This modlist is meant as a basis to start your own Skyrim modding journey, it includes all the essential fixes & tools, but this version has been NSFW-ified!",
-    "author": "iAmMe & Luca",
-    "maintainers": [
-      "github/iAmMe27"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Unofficial",
-      "NSFW",
-      "Utility"
-    ],
-    "nsfw": true,
-    "utility_list": true,
-    "image_contains_title": true,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/SMEFTBS.webp",
-      "readme": "https://github.com/iAmMe27/SMEFT-but-Sexy/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SMEFT but Sexy.wabbajack_4376bae5-048b-442f-b8fd-f2256602e358",
-      "machineURL": "smeftbs",
-      "discordURL": "https://discord.gg/jolly-coop"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "esWydf69Ej0=",
-      "Size": 253189134,
-      "NumberOfArchives": 272,
-      "SizeOfArchives": 24952034336,
-      "NumberOfInstalledFiles": 64886,
-      "SizeOfInstalledFiles": 66262485918
-    },
-    "version": "0.2.1",
-    "RepositoryName": ""
   }
 ]
