@@ -65,18 +65,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/SMEFTBS.webp",
       "readme": "https://github.com/iAmMe27/SMEFT-but-Sexy/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SMEFT but Sexy.wabbajack_07783155-b9dd-4c4e-aa68-1fd9c20ddbf4",
+      "download": "https://authored-files.wabbajack.org/SMEFT but Sexy.wabbajack_4376bae5-048b-442f-b8fd-f2256602e358",
       "machineURL": "smeftbs",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ZPXpUtRKb2E=",
-      "Size": 253186017,
+      "Hash": "esWydf69Ej0=",
+      "Size": 253189134,
       "NumberOfArchives": 272,
       "SizeOfArchives": 24952034336,
-      "NumberOfInstalledFiles": 64883,
-      "SizeOfInstalledFiles": 66262476411
+      "NumberOfInstalledFiles": 64886,
+      "SizeOfInstalledFiles": 66262485918
     },
     "version": "0.2.1",
     "RepositoryName": ""
