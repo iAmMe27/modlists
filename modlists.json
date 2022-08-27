@@ -24,7 +24,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/WJBanner.webp",
+      "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/NewBanner.webp",
       "readme": "https://github.com/iAmMe27/Tahrovin/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_682f0280-3064-43f5-96fa-1fc991f5a7e5",
       "machineURL": "tahrovin",
