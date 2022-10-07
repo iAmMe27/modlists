@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Tahrovin",
     "description": "A NSFW Skyrim VR experience that only lightly touches on the core of Skyrim, making it an enjoyable game experience with plenty of eye candy to suit.",
     "author": "iAmMe",
@@ -23,23 +22,23 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/NewBanner.webp",
       "readme": "https://github.com/iAmMe27/Tahrovin/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_14e9740d-9558-46f7-a8ef-8c4f2fa2f812",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_a556ac48-708e-43b6-9697-4eb47a73ba33",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "HZUjJEKr7Zs=",
-      "Size": 258993127,
-      "NumberOfArchives": 660,
-      "SizeOfArchives": 80535178011,
-      "NumberOfInstalledFiles": 167739,
-      "SizeOfInstalledFiles": 179481934323
+      "Hash": "7yBbeaCVEYQ=",
+      "Size": 265473842,
+      "NumberOfArchives": 673,
+      "SizeOfArchives": 81306894595,
+      "NumberOfInstalledFiles": 168755,
+      "SizeOfInstalledFiles": 181357511933
     },
-    "version": "0.9.1.1",
-    "RepositoryName": ""
+    "version": "0.9.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2022-10-07T15:58:20.1749737Z",
+    "repositoryName": ""
   }
 ]
