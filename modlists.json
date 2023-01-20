@@ -24,21 +24,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/Viin%20Update%20Banner.webp",
       "readme": "https://github.com/iAmMe27/Tahrovin/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_20d82159-b000-4bff-8d9c-3482298dac81",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_4badf761-d31d-4f03-90a4-1b68a0458d28",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "PlKbhCyT5VU=",
-      "Size": 241101537,
-      "NumberOfArchives": 625,
-      "SizeOfArchives": 82107447930,
-      "NumberOfInstalledFiles": 153038,
-      "SizeOfInstalledFiles": 174013553094
+      "Hash": "bhi1I2o+CaI=",
+      "Size": 193752910,
+      "NumberOfArchives": 633,
+      "SizeOfArchives": 82286139277,
+      "NumberOfInstalledFiles": 158583,
+      "SizeOfInstalledFiles": 179151475559
     },
-    "version": "1.0.4.1",
+    "version": "1.0.4.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-01-11T12:26:35.332393Z",
+    "dateUpdated": "2023-01-20T13:03:21.5052068Z",
     "repositoryName": ""
   }
 ]
