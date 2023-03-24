@@ -41,9 +41,9 @@
     "dateUpdated": "2023-03-10T21:49:22.3955759Z",
     "repositoryName": ""
   },
-{
+  {
     "title": "Wasteland of Depravity",
-    "description": "Fallout but it's a lil' depraved",
+    "description": "Fallout but it\u0027s a lil\u0027 depraved",
     "author": "iAmMe",
     "maintainers": [
       "github/iAmMe27"
@@ -66,21 +66,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/WoD/main/img/WoDBanner.webp",
       "readme": "https://github.com/iAmMe27/WoD/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland%20of%20Depravity.wabbajack_fc9c2963-2134-496f-a83c-07c832db2ede",
+      "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_45236e5c-0a94-4d48-b8c2-478cdb542151",
       "machineURL": "wod",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "BQIlQ4HBWss=",
-      "Size": 160027493,
-      "NumberOfArchives": 935,
-      "SizeOfArchives": 133152807409,
-      "NumberOfInstalledFiles": 124821,
-      "SizeOfInstalledFiles": 212347997823
+      "Hash": "YMDvScofxBk=",
+      "Size": 169259521,
+      "NumberOfArchives": 941,
+      "SizeOfArchives": 133917466028,
+      "NumberOfInstalledFiles": 124951,
+      "SizeOfInstalledFiles": 212972280494
     },
-    "version": "0.3.0.2",
+    "version": "0.3.0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-20T21:49:22.3955759Z",
+    "dateUpdated": "2023-03-24T18:48:19.8002826Z",
     "repositoryName": ""
   }
 ]
