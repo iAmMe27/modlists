@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/Tahrovin.png",
       "readme": "https://github.com/iAmMe27/Tahrovin/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_706874e5-5b2c-4fb2-aabe-c3e8a39bc71c",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_b6b7f19e-545a-4d95-a622-653941b768c4",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "y8bYxQt8+Gg=",
-      "Size": 558362083,
-      "NumberOfArchives": 771,
-      "SizeOfArchives": 92782726697,
-      "NumberOfInstalledFiles": 193260,
-      "SizeOfInstalledFiles": 246927445236
+      "Hash": "DDZCCzp+xpE=",
+      "Size": 558373417,
+      "NumberOfArchives": 774,
+      "SizeOfArchives": 92789734840,
+      "NumberOfInstalledFiles": 193408,
+      "SizeOfInstalledFiles": 246933440974
     },
-    "version": "2.1.6",
+    "version": "2.1.61",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-03-05T16:57:43.4015916Z",
+    "dateUpdated": "2024-03-11T01:42:36.9468113Z",
     "repositoryName": ""
   },
   {
