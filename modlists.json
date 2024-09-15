@@ -68,21 +68,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/WoD/main/img/WoDBanner2.webp",
       "readme": "https://github.com/iAmMe27/WoD/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_e7259fc1-d7a0-43c8-90bd-7e1f7aa4df9d",
+      "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_3d3800f8-1dc0-4d5e-8309-330488961441",
       "machineURL": "wod",
       "discordURL": "https://discord.gg/jolly-coop"
     },
     "download_metadata": {
-      "Hash": "H3FLh9ZTXnY=",
-      "Size": 277147087,
+      "Hash": "CfH2H/sdOV0=",
+      "Size": 277146558,
       "NumberOfArchives": 1239,
-      "SizeOfArchives": 188363506984,
-      "NumberOfInstalledFiles": 203022,
-      "SizeOfInstalledFiles": 317864704765
+      "SizeOfArchives": 188363709637,
+      "NumberOfInstalledFiles": 203043,
+      "SizeOfInstalledFiles": 317865125091
     },
-    "version": "0.9.5",
+    "version": "0.9.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-08-18T19:30:16.39521Z",
+    "dateUpdated": "2024-09-15T08:48:34.6589537Z",
     "repositoryName": ""
   }
 ]
