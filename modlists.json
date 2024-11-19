@@ -44,7 +44,7 @@
   },
   {
     "title": "Merethic",
-    "description": "A NSFW modlist focused on enhancing the looks and feel of the world of Skyrim. Based on Vokriinator Black for power fantasy builds because who doesn't like being god for a bit?",
+    "description": "A NSFW modlist focused on enhancing the looks and feel of the world of Skyrim. Based on Vokriinator Black for power fantasy builds because who doesn\u0027t like being god for a bit?",
     "author": "iAmMe",
     "maintainers": [
       "github/iAmMe27"
@@ -66,21 +66,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Merethic/main/img/MerethicBanner.webp",
       "readme": "https://github.com/iAmMe27/Merethic/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Merethic.wabbajack_a4d07b23-c689-45fd-ae0f-f74a1d5692fb",
+      "download": "https://authored-files.wabbajack.org/Merethic.wabbajack_60400314-9688-4fd4-910d-da8938345e68",
       "machineURL": "merethic",
       "discordURL": "https://discord.gg/iAmModlist"
     },
     "download_metadata": {
-      "Hash": "ajpX0pAWi6s=",
-      "Size": 258805037,
-      "NumberOfArchives": 1937,
-      "SizeOfArchives": 242436794141,
+      "Hash": "gEBykj6GbAk=",
+      "Size": 259371955,
+      "NumberOfArchives": 1936,
+      "SizeOfArchives": 242356116534,
       "NumberOfInstalledFiles": 334529,
-      "SizeOfInstalledFiles": 497096694209
+      "SizeOfInstalledFiles": 497091042322
     },
-    "version": "1.0.0",
+    "version": "0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-31T20:59:18.4413051Z",
+    "dateUpdated": "2024-11-19T20:53:04.4632588Z",
     "repositoryName": ""
   },
   {
