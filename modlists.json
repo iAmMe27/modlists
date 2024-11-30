@@ -1,7 +1,7 @@
 [
   {
     "title": "Tahrovin",
-    "description": "A NSFW Skyrim VR experience that only lightly touches on the core of Skyrim's combat while adding a ton of extra content including LotD 5.6.5. My goal is to keep the feeling of Skyrim while adding more satisfying gameplay and content making it an enjoyable game experience with plenty of eye candy to suit.",
+    "description": "A NSFW Skyrim VR experience that only lightly touches on the core of Skyrim\u0027s combat while adding a ton of extra content including LotD 5.6.5. My goal is to keep the feeling of Skyrim while adding more satisfying gameplay and content making it an enjoyable game experience with plenty of eye candy to suit.",
     "author": "iAmMe",
     "maintainers": [
       "github/iAmMe27",
@@ -109,21 +109,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/WoD/main/img/WoDBanner2.webp",
       "readme": "https://github.com/iAmMe27/WoD/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_073126bc-403c-4031-894c-c1c87765d62a",
+      "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_447984c3-a7de-4252-8ba3-d7f8f0c6cb36",
       "machineURL": "wod",
       "discordURL": "https://discord.gg/iAmModlist"
     },
     "download_metadata": {
-      "Hash": "vDlmzJJRyXM=",
-      "Size": 277091639,
-      "NumberOfArchives": 1267,
-      "SizeOfArchives": 192053211045,
-      "NumberOfInstalledFiles": 204978,
-      "SizeOfInstalledFiles": 320447481171
+      "Hash": "CZutEgOSCJA=",
+      "Size": 280830792,
+      "NumberOfArchives": 1269,
+      "SizeOfArchives": 192053651586,
+      "NumberOfInstalledFiles": 205057,
+      "SizeOfInstalledFiles": 320450064786
     },
-    "version": "0.9.9",
+    "version": "0.9.10",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-10-31T20:59:18.4413051Z",
+    "dateUpdated": "2024-11-30T20:16:00.5008487Z",
     "repositoryName": ""
   }
 ]
