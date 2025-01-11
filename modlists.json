@@ -66,21 +66,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Merethic/main/img/MerethicBanner.webp",
       "readme": "https://github.com/iAmMe27/Merethic/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Merethic.wabbajack_c98c3e92-a5a6-445e-87e9-988aa91c9440",
+      "download": "https://authored-files.wabbajack.org/Merethic.wabbajack_62c62aaa-1818-4e90-b7e3-e3b1fd6d984c",
       "machineURL": "merethic",
       "discordURL": "https://discord.gg/iAmModlist"
     },
     "download_metadata": {
-      "Hash": "CemyDkzhpwk=",
-      "Size": 97388743,
-      "NumberOfArchives": 2023,
-      "SizeOfArchives": 255652555309,
-      "NumberOfInstalledFiles": 342896,
-      "SizeOfInstalledFiles": 524900289221
+      "Hash": "bQsOF3Bc2ow=",
+      "Size": 97493169,
+      "NumberOfArchives": 2024,
+      "SizeOfArchives": 255652849413,
+      "NumberOfInstalledFiles": 342902,
+      "SizeOfInstalledFiles": 524900546407
     },
-    "version": "1.1.0",
+    "version": "1.1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-01-09T18:35:48.796694Z",
+    "dateUpdated": "2025-01-11T11:00:26.591947Z",
     "repositoryName": ""
   },
   {
