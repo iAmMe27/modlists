@@ -8,14 +8,15 @@
       "github/neochiken"
     ],
     "game": "skyrimvr",
-    "official": false,
+    "official": true,
     "tags": [
       "NSFW",
       "LotD",
       "VR",
       "Mysticism",
       "Triumvirate",
-      "PLANCK"
+      "PLANCK",
+      "Official"
     ],
     "nsfw": true,
     "utility_list": false,
