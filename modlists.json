@@ -26,23 +26,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/Tahrovin.png",
       "readme": "https://github.com/iAmMe27/Tahrovin/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_146b702e-09ff-4030-9c7f-bea931f19556",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_2bc29f13-3b1f-4e7e-afdd-d4924deeb30d",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/9vKvT6aMSa",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "CWPuyCctcmc=",
-      "Size": 547802092,
+      "Hash": "bDO6cMGBIBs=",
+      "Size": 551677630,
       "NumberOfArchives": 1013,
-      "SizeOfArchives": 124858724905,
-      "NumberOfInstalledFiles": 282784,
-      "SizeOfInstalledFiles": 283511881689,
-      "TotalSize": 408370606594
+      "SizeOfArchives": 124846414503,
+      "NumberOfInstalledFiles": 282691,
+      "SizeOfInstalledFiles": 283511486237,
+      "TotalSize": 408357900740
     },
     "version": "2.7.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-05T20:17:22.8120504Z",
+    "dateUpdated": "2025-03-13T18:12:40.6687351Z",
     "repositoryName": ""
   },
   {
