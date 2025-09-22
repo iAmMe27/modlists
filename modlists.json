@@ -65,7 +65,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Merethic/main/img/MerethicBanner.webp",
       "readme": "https://github.com/iAmMe27/Merethic/blob/main/README.md",
@@ -135,3 +135,4 @@
   }
 
 ]
+
