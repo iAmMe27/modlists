@@ -110,9 +110,9 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/iAmMe27/WoD/main/img/WoDBanner2.webp",
+      "image": "https://github.com/iAmMe27/WoD/blob/main/img/spoop/spoop.webp",
       "readme": "https://github.com/iAmMe27/WoD/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_abd6fd90-0d2e-4897-8c32-1b0c9027ef18",
       "machineURL": "wod",
@@ -133,4 +133,5 @@
     "dateUpdated": "2025-10-10T17:36:56.7401593Z",
     "repositoryName": ""
   }
+
 ]
