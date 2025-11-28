@@ -114,25 +114,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/WoD/main/img/spoop/spoop.webp",
       "readme": "https://github.com/iAmMe27/WoD/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_7a02231d-e02c-4d0b-8536-e97a812228e6",
+      "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_128dc47d-4301-406f-8cb2-7652cc08dada",
       "machineURL": "wod",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "zi4oI8GYxe8=",
-      "Size": 567539680,
-      "NumberOfArchives": 1336,
-      "SizeOfArchives": 196878830813,
-      "NumberOfInstalledFiles": 229999,
-      "SizeOfInstalledFiles": 325941869639,
-      "TotalSize": 522820700452
+      "Hash": "1YMsrHhR1V0=",
+      "Size": 565790938,
+      "NumberOfArchives": 1337,
+      "SizeOfArchives": 196773278757,
+      "NumberOfInstalledFiles": 230004,
+      "SizeOfInstalledFiles": 325956627195,
+      "TotalSize": 522729905952
     },
-    "version": "1.5.3",
+    "version": "1.5.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-11-19T10:58:56.124944Z",
+    "dateUpdated": "2025-11-28T18:44:22.8484924Z",
     "repositoryName": ""
   }
-
 ]
-
