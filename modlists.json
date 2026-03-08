@@ -2,7 +2,7 @@
   {
     "title": "Tahrovin",
     "description": "A NSFW Skyrim VR experience that only lightly touches on the core of Skyrim\u0027s combat while adding a ton of extra content including LotD 5.6.5. My goal is to keep the feeling of Skyrim while adding more satisfying gameplay and content making it an enjoyable game experience with plenty of eye candy to suit.",
-    "author": "iAmMe",
+    "author": "Neochiken",
     "maintainers": [
       "github/iAmMe27",
       "github/neochiken"
@@ -25,8 +25,8 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/Tahrovin.png",
-      "readme": "https://github.com/iAmMe27/Tahrovin/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_77c7f9ff-4a8f-4e73-8f99-44e9f59211ce",
+      "readme": "https://tahrovinwiki.cc/",
+      "download": "https://build.wabbajack.org/authored_files/download/Tahrovin.wabbajack_f79f96ad-f70d-4d2d-b40f-43792f6c7115",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/9vKvT6aMSa",
       "websiteURL": ""
