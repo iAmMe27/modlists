@@ -26,23 +26,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/Tahrovin.png",
       "readme": "https://tahrovinwiki.cc/",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_bda125d5-acfa-4307-9463-772ddd1bbfe8",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_7f129b93-cb29-44ac-b06e-3f5746adcc12",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/iAmModlist",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "hdlg4lH4PTY=",
-      "Size": 497981697,
+      "Hash": "XC2Iw2DOJ5Q=",
+      "Size": 497982197,
       "NumberOfArchives": 1074,
       "SizeOfArchives": 133651307495,
       "NumberOfInstalledFiles": 293815,
-      "SizeOfInstalledFiles": 290421234897,
-      "TotalSize": 424072542392
+      "SizeOfInstalledFiles": 290421233714,
+      "TotalSize": 424072541209
     },
     "version": "3.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-08T23:32:36.8924663Z",
+    "dateUpdated": "2026-03-14T00:53:51.5243295Z",
     "repositoryName": ""
   },
   {
@@ -72,7 +73,8 @@
       "download": "https://authored-files.wabbajack.org/Merethic.wabbajack_43ba7dac-2a24-4559-addd-e123631aa5f3",
       "machineURL": "merethic",
       "discordURL": "https://discord.gg/iAmModlist",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "NYlJjNC4mck=",
@@ -117,7 +119,8 @@
       "download": "https://authored-files.wabbajack.org/Wasteland of Depravity.wabbajack_3a0d7a33-8148-4d8d-b07e-6f9ba35f6afb",
       "machineURL": "wod",
       "discordURL": "https://discord.gg/iAmModlist",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "uwZk+EW56uY=",
