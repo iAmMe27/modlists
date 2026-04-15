@@ -26,24 +26,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/Tahrovin/main/img/Tahrovin.png",
       "readme": "https://tahrovinwiki.cc/",
-      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_99d1ae8a-ac3f-44f0-8006-202506bdb30f",
+      "download": "https://authored-files.wabbajack.org/Tahrovin.wabbajack_0c934643-4b06-41c7-850f-ffeb3e1822cb",
       "machineURL": "tahrovin",
       "discordURL": "https://discord.gg/iAmModlist",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "mrUZ1tgNthM=",
-      "Size": 498351209,
+      "Hash": "z2TlyjS8wb4=",
+      "Size": 499100367,
       "NumberOfArchives": 1077,
-      "SizeOfArchives": 133706473310,
-      "NumberOfInstalledFiles": 293838,
-      "SizeOfInstalledFiles": 290365184164,
-      "TotalSize": 424071657474
+      "SizeOfArchives": 133696891317,
+      "NumberOfInstalledFiles": 293984,
+      "SizeOfInstalledFiles": 290436710598,
+      "TotalSize": 424133601915
     },
     "version": "3.0.7",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-04-14T02:07:25.6123136Z",
+    "dateUpdated": "2026-04-15T15:02:41.8492467Z",
     "repositoryName": ""
   },
   {
