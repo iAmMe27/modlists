@@ -1,4 +1,4 @@
-[
+nbo[
   {
     "title": "Tahrovin",
     "description": "A NSFW Skyrim VR experience that only lightly touches on the core of Skyrim\u0027s combat while adding a ton of extra content including LotD 5.6.5. My goal is to keep the feeling of Skyrim while adding more satisfying gameplay and content making it an enjoyable game experience with plenty of eye candy to suit.",
@@ -112,7 +112,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/iAmMe27/WoD/main/img/WoDBanner.webp",
       "readme": "https://github.com/iAmMe27/WoD/blob/main/README.md",
